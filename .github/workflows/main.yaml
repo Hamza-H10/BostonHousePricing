@@ -38,7 +38,9 @@ jobs:
           # (Optional, default: "./")
           # Dockerfile directory.
           # For example, if you have a Dockerfile in the root of your project, leave it as follows:
-          dockerfile_directory: ./
+          
+          # dockerfile_directory: ./
+          dockerfile_directory: E:\HAMZA\EndToEndMLProject\BostonHousePricing\Dockerfile
 
           # (Optional, default: "Dockerfile")
           # Dockerfile name.
